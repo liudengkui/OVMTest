@@ -12,6 +12,11 @@ import com.sino.VO.ResultVOUtil;
 import com.sino.model.User;
 import com.sino.repositories.UserRepository;
 
+/**
+ * 
+ * @author liudk
+ * 2017-07-03 01:25
+ */
 @RestController
 @RequestMapping("/user")
 public class UserController {

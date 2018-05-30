@@ -11,6 +11,11 @@ import javax.persistence.Table;
 
 import org.hibernate.annotations.DynamicUpdate;
 
+/**
+ * 
+ * @author liudk
+ * 2017-07-02 21:15
+ */
 @Entity
 @Table(name = "sys_users")
 @DynamicUpdate

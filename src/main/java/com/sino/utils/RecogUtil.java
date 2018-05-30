@@ -18,7 +18,12 @@ import org.apache.http.impl.client.CloseableHttpClient;
 import org.apache.http.impl.client.HttpClients;
 import org.apache.http.util.CharsetUtils;
 import org.apache.http.util.EntityUtils;
-
+/**
+ * 
+ * @author liudk
+ * 2017-07-03 10:46
+ * 
+ */
 public class RecogUtil {
 	public static String recog(String path) {
 		File file = new File(path);

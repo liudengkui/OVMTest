@@ -23,6 +23,11 @@ import com.sino.utils.RecogUtil;
 import com.sino.utils.SaveImgUtil;
 import com.sino.config.WechatAccountConfig;
 
+/**
+ * 
+ * @author liudk
+ * 2017-07-03 00:17
+ */
 @Controller
 @RequestMapping("/wechat")
 public class WeChatController {

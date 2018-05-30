@@ -2,7 +2,7 @@ package com.sino.VO;
 
 
 /**
- * Created by 廖师兄
+ * Created by liudk
  * 2017-05-15 00:22
  */
 public class ResultVOUtil {
